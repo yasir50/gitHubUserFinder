@@ -1,0 +1,55 @@
+body {
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+.container {
+  margin-top: 50px;
+}
+.input-button{
+  background-color: #27324f;
+padding: 20px;
+border-radius: 10px
+
+}
+.search-bar {
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  color: #ffffff;
+}
+.search-btn {
+  background-color: #007bff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  color: #ffffff;
+}
+.profile-card {
+  background-color: #27324f;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 20px;
+}
+.profile-image {
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+}
+.info-row {
+  margin-top: 15px;
+}
+.stats {
+  background-color: #1e2a47;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+/*  */
+
+
